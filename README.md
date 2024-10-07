@@ -1,6 +1,6 @@
-# Sean Lee
+Sean Lee
 
-## Computer Science Student at Purdue University
+Computer Science Student at Purdue University
 
 My interests are in the areas of distributed systems, high performance computing, and systems software. Feel free to take a look at my projects!
 
